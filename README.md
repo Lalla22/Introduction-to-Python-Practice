@@ -12,11 +12,25 @@ Notes and Code Include:
  Functions
  Shapes
  Madlibs game
-
-Tools
- Basic Calculator
+ Return Statement
+ If Statement 
+ If Statements and Comparisons 
  Phrases
  Numbers
+ While Loop
+ Four Loops
+ Dictionaries
+ Tuples 
+ Classes and Object 
+ 2D Lists and Nested Loops
+ 
+ 
+Tools
+ Basic Calculator
+ Guessing Game 
+ Translator
+ 
+
  
 
 

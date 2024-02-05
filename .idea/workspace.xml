@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63599674-36ec-4523-9c35-cae3fca86b81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Introduction-to-Python-Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/basic calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/getting input from users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/list functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/madlibs game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/phrases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/variables.py" afterDir="false" />
+    <list default="true" id="63599674-36ec-4523-9c35-cae3fca86b81" name="Changes" comment="Code practice and lessons">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +16,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,6 +52,18 @@
       <option name="presentableId" value="Default" />
       <updated>1707096799138</updated>
     </task>
+    <task id="LOCAL-00001" summary="Code practice and lessons">
+      <created>1707117547812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707117547812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code practice and lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code practice and lessons" />
   </component>
 </project>
