@@ -3,9 +3,10 @@ Notes and Code From Introduction to Python Practice
 
 
 Free CodeCamp Course: Learn Python - Full Course for Beginners [Tutorial]
+
 [Watch the tutorial series here](https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLoTsRllFpMa3_6c7fPEsGvmmgk0B7Mli6&index=1)
 
-Users can then click on the link to access the tutorial series.
+
 
 Notes and Code Include: 
  * Variables and Data Types
