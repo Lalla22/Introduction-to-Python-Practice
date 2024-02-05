@@ -25,9 +25,9 @@ Notes and Code Include:
 - 2D Lists and Nested Loops
  
 Tools
- Basic Calculator
- Guessing Game 
- Translator
+- Basic Calculator
+- Guessing Game
+- Translator
  
 
  
