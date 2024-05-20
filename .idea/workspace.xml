@@ -5,20 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63599674-36ec-4523-9c35-cae3fca86b81" name="Changes" comment="Code practice and lessons">
-      <change beforePath="$PROJECT_DIR$/.idea/Introduction-to-Python-Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Introduction-to-Python-Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/pythonvariablemultipevalues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/basic calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/basic calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/getting input from users.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/getting input from users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/list functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/list functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/phrases.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/phrases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/number.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
@@ -89,6 +94,17 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
