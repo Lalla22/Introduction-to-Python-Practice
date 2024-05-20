@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63599674-36ec-4523-9c35-cae3fca86b81" name="Changes" comment="Code practice and lessons" />
+    <list default="true" id="63599674-36ec-4523-9c35-cae3fca86b81" name="Changes" comment="Code practice and lessons">
+      <change beforePath="$PROJECT_DIR$/.idea/Introduction-to-Python-Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Introduction-to-Python-Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/basic calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/basic calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/getting input from users.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/getting input from users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/list functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/list functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/phrases.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/phrases.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +54,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/lalla/Downloads/Github Repos/Python Projects and Learning/Introduction-to-Python-Practice",
+    "last_opened_file_path": "C:/Users/lalla/Downloads/Projects/Github Repos/Python Projects and Learning/Introduction-to-Python-Practice",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lalla\Downloads\Projects\Github Repos\Python Projects and Learning\Introduction-to-Python-Practice" />
       <recent name="C:\Users\lalla\Downloads\Data Science Hack4LA\Introduction-to-Python-Practice" />
     </key>
   </component>
