@@ -11,7 +11,7 @@ Notes and Code Include Covered Topics:
 - Return Statement: The Python return statement marks the end of a function and specifies the value or values to pass back from the function. Return statements can return data of any type, including integers, floats, strings, lists, dictionaries, and even other functions.
 - If Statement: the if statement is a conditional statement. It is used to execute a block of code only when a specific condition is met.
 - Numbers: There are three numeric types in python: int, float, and complex.
-- Classes and Object: Python is an object oriented programming language. Almost everything in Python is an object, with its properties and methods. A Class is like an object constructor, or a "blueprint" for creating objects. Objects are variables that contain data and functions that can be used to manipulate the data. Every Object belongs to it class. A Python object is essentially anything that you can assign to a variable. While a class is a code template for creating objects.
+- Classes and Objects: Python is an object oriented programming language. Almost everything in Python is an object, with its properties and methods. A Class is like an object constructor, or a "blueprint" for creating objects. Objects are variables that contain data and functions that can be used to manipulate the data. Every Object belongs to it class. A Python object is essentially anything that you can assign to a variable. While a class is a code template for creating objects.
 
 ## Loops
 - While Loops: A while loop is a control flow statement that allows code to be executed repeatedly as long as the boolean condition is met.
