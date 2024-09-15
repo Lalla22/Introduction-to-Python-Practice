@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63599674-36ec-4523-9c35-cae3fca86b81" name="Changes" comment="Code practice and lessons">
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/dictionairesandloops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/excercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/web scraping with python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/if statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/if statements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/dictionairesandloops.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/dictionairesandloops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2bvY0tU4nMoha3LlrmHFAQUZP1N" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
