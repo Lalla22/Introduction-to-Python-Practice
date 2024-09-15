@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63599674-36ec-4523-9c35-cae3fca86b81" name="Changes" comment="Code practice and lessons">
-      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/dictionaires2.py" beforeDir="false" afterPath="$PROJECT_DIR$/freecodecamp python lessons and code/dictionaires2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/Second Half Lesson/For Loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/Second Half Lesson/Guessing Game Better.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/freecodecamp python lessons and code/Second Half Lesson/While Loop.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +58,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lalla/Downloads/Projects/Github Repos/Python Projects and Learning/Introduction-to-Python-Practice&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/lalla/Downloads/Projects/Github Repos/100-days-of-coding-challenges-",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lalla\Downloads\Projects\Github Repos\Python Projects and Learning\Introduction-to-Python-Practice" />
